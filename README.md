@@ -1,6 +1,7 @@
 # Andela35 TRAINING REPO
 
-[![Build Status](https://travis-ci.org/bisonlou/Andela35.svg?branch=master)](https://travis-ci.org/bisonlou/Andela35)
+[![Build Status](https://travis-ci.org/bisonlou/Andela35.svg?branch=deploy)](https://travis-ci.org/bisonlou/Andela35)
+
 This repo is to help learners easily follow along during the session.
 
 ## GETTING STARTED
