@@ -4,6 +4,8 @@
 
 <a href="https://codeclimate.com/github/bisonlou/Andela35/maintainability"><img src="https://api.codeclimate.com/v1/badges/ef35c55730c1dc9aaab5/maintainability" /></a>
 
+[![Coverage Status](https://coveralls.io/repos/github/bisonlou/Andela35/badge.svg?branch=master)](https://coveralls.io/github/bisonlou/Andela35?branch=master)
+
 This repo is to help learners easily follow along during the session.
 
 ## GETTING STARTED
