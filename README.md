@@ -1,4 +1,9 @@
 # Andela35 TRAINING REPO
+
+[![Build Status](https://travis-ci.org/bisonlou/Andela35.svg?branch=deploy)](https://travis-ci.org/bisonlou/Andela35)
+
+<a href="https://codeclimate.com/github/bisonlou/Andela35/maintainability"><img src="https://api.codeclimate.com/v1/badges/ef35c55730c1dc9aaab5/maintainability" /></a>
+
 This repo is to help learners easily follow along during the session.
 
 ## GETTING STARTED
